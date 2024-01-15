@@ -1,7 +1,2 @@
 # practice
-used for practicing
-
-add therrr  line
-
-clone use ssh insteand of https
-updata ssh public key of github
+this priority just used for learning git，no valuable file here
